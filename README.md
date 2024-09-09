@@ -42,7 +42,6 @@ React Router DOM is a critical part of our website's functionality, enabling sea
 
 ## Demo Video
 
-We will soon provide a **demo video** to showcase the full functionality of the website, including how to navigate through different sections and interact with the features. Stay tuned for the demo to get a closer look at how Aastra Agritech works!
 
 ## How to Run the Project Locally
 
